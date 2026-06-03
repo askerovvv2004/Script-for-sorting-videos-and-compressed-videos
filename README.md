@@ -39,7 +39,7 @@
 - **Итоговая статистика**: количество обработанных/пропущенных/ошибочных файлов, общий объём.
 
 #### Требования
-- Установленный **FFmpeg** (требуется `ffprobe.exe`). Путь к нему запрашивается при запуске. (https://ffmpeg.org/download.html)
+- Установленный **FFmpeg** (требуется `ffprobe.exe`). Путь к нему запрашивается при запуске. (https://ffmpeg.org/download.html) (https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)
 - PowerShell 5.1 и выше (возможна работа в Windows PowerShell и PowerShell 7).
 
 ### Режим 2. Замена несжатых видео сжатыми
